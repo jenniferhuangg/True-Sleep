@@ -831,34 +831,6 @@ Keeping the source code private also reduces exposure of implementation details 
 
 ---
 
-# 🗃️ Example Session Data
-
-A sleep session may conceptually contain information such as:
-
-```text
-session_id
-user_id
-
-declared_bedtime
-requested_sleep_duration
-hard_wake_deadline
-
-sleep_onset_detected_at
-
-phone_activity_events
-wake_interruptions
-
-alarm_fired_at
-alarm_trigger_reason
-
-pre_sleep_checkin
-user_reported_quality
-```
-
-Only information required for application functionality should be stored.
-
----
-
 # 🔐 Privacy Goals
 
 Long-term privacy goals include:
@@ -968,5 +940,4 @@ This project is intended for sleep planning, personal insights, and behavioral t
 
 Sleep-state predictions and sleep-duration estimates generated from consumer-device sensors and machine learning are **not medical measurements** and are not intended for diagnosis, treatment, or clinical sleep monitoring.
 
-```
 ```
