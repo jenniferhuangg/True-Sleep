@@ -1,4 +1,3 @@
-````markdown
 # 🌙 Sleep-Onset Smart Alarm
 
 An AI-powered smart alarm designed to help users get the amount of sleep they **actually need** by starting the sleep countdown when they fall asleep, rather than when they simply go to bed.
